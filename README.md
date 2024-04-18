@@ -52,4 +52,9 @@
 
 
   ## References
-
+      1) https://www.geeksforgeeks.org/how-to-convert-categorical-variable-to-numeric-in-pandas/
+      2) https://saturncloud.io/blog/how-to-convert-categorical-data-to-numerical-data-with-pandas/
+      3) https://stackoverflow.com/questions/52404971/get-a-list-of-categories-of-categorical-variable
+      4) https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+      5) https://www.datacamp.com/tutorial/random-forests-classifier-python
+      

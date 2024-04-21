@@ -22,8 +22,6 @@
   #### Machine Learning
   
   *a. Random Forest*
-
-  
       1) Using all the predictors, build a Random Forest Classifier to predict 'child_anemia_level'
       2) Check the OOB score and Classification accuracy of the model (Obtain HIGH accuracy)
       3) Obtain feature importance
@@ -36,18 +34,15 @@
  ## What we have learnt from this project?
    
    *a. New Visualisation Methods*
-   
       1) Mosiac Plot -  Offers a perspective to observe correlations between categorical datas similar to assessing correlations between numerical variables
       2) Plotly Exprees - Craft more engaging and interactive visualizations, enhancing data exploration.
 
       
    *b. Random Forest Model*
-   
       1) Establish nonlinear relationships within categorical data
       2) Assess feature importance
       
    *c. Support vector*
-
       1) Recognise signs of overfitting in data 
 
 

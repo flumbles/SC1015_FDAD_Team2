@@ -15,6 +15,7 @@
 
 # Notebook Details
 
+  ## Exploratory Data Analysis / Visualisation 
   We split our original notebook for Exploratory Data Analysis into 2 as it was too big to place into github.
   ### Jupyter Notebook #1 - (EDA1015_first_part.ipynb) Data cleaning and Basic Visualisation
   In this first notebook, we first clean the dataset - clearing rows with NULL child anemia levels, as well as removing variables that are extremely skewed. 

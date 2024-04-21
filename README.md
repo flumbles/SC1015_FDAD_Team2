@@ -16,18 +16,18 @@
 # Notebook Details
 
   We split our original notebook into 2 as it was too big to place into github.
-  ## Jupyter Notebook #1 - (EDA1015_first_part.ipynb) Data cleaning and Basic Visualisation
+  ### Jupyter Notebook #1 - (EDA1015_first_part.ipynb) Data cleaning and Basic Visualisation
   In this first notebook, we first clean the dataset - clearing rows with NULL child anemia levels, as well as removing variables that are extremely skewed. 
   Then, we started visualising our dataset. We first looked at the distribution of each variable, as well as used some new visualisation methods that we learnt from Plotly. 
   
-  ## Jupyter Notebook #2 - (EDA1015_second_part.ipynb) Exploratory analysis
+  #### Jupyter Notebook #2 - (EDA1015_second_part.ipynb) Exploratory analysis
   Here, we looked at the relationships of each variable with Child Anemia Levels. 
   We used different visualisation methods such as the use of bar charts, sunburst charts, violin plots and box plots. 
   Lastly, we made use of the mosiac plot to look at the actual percentages of each Child anemia level against the different variables.
   
-  #### Machine Learning
+  ## Machine Learning
 
-  ## Jupyter Notebook #3 - (RandomForestML.ipynb) Random Forest
+  ### Jupyter Notebook #3 - (RandomForestML.ipynb) Random Forest
   *a. Random Forest*
   
    1) Using all the predictors, build a Random Forest Classifier to predict 'child_anemia_level'
@@ -36,8 +36,11 @@
    4) Observed that one predictor to be very significant. Use single decision tree to obseve the predictor
    5) Repeat the Random Forest model without this predicor to observe feature importance once more
 
-         
+  (Might want to insert reason why SVM was split into 2?)
+  ### Jupyter Notebook #4 - (SVM_testmodel.ipynb) SVM Test Model Pt.1
   *b. Support Vector Machine*
+
+  ### Jupyter Notebook #5 - (SVM_testmodel2.ipynb) SVM Test Model Pt.2
 
  ## What we have learnt from this project?
    

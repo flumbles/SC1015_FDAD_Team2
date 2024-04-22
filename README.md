@@ -57,7 +57,8 @@ With this knowledge, we went on to develop our next model, to see which model is
 Using this model, we were able to input values and our machine was able to accurately predict the child's anemia level. Moreover, we repeated this for various input values and it gave us accurate results across all the different inputs. 
 
 ![image](https://github.com/flumbles/SC1015_FDAD_Team2/assets/162455199/b500b3fb-d660-452e-af13-1d72a184c1db)
-![image](https://github.com/flumbles/SC1015_FDAD_Team2/assets/162455199/436d57b1-52e2-4ee3-955e-0bb43b04ce77)
+![image](https://github.com/flumbles/SC1015_FDAD_Team2/assets/162455199/0f4b8cf9-4d2c-4751-8e67-34b1d0d7c2b5)
+
 
 
  ## What we have learnt from this project?

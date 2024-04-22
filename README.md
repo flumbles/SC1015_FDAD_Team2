@@ -40,8 +40,25 @@
   (Might want to insert reason why SVM was split into 2?)
   ### Jupyter Notebook #4 - (SVM_testmodel.ipynb) SVM Test Model Pt.1
   *b. Support Vector Machine*
+  For the support vector machine, we created 2 different models. The first one was using our cleaned data set that we generated from the model. However, with the insights provided by our random forest tree, we wanted to enahnce our project. This led to us developing a second model where we used the top 3 predictors from our random forest tree as our predictors for child anemia. For easy readibility, we decided to seperate the jupyter notebooks, with one for each model. 
+
+### Jupyter Notebook #4 - (SVM_testmodel.ipynb) SVM Test Model Pt.1
+  In this model, we used our entire clean dataset as predictors, less child anemia level 
+  1) Using all the predictors, we first decided the most suitable kernel. In this case, it was the linear kernel
+  2) We trained our model, using 80-20 splits and calculated the accuracies
+  3) Our model performed very well, which led us to test for overfitting
+  4) Through different test, our model was not overfiited
+
+With this knowledge, we went on to develop our next model, to see which model is more accurate
 
   ### Jupyter Notebook #5 - (SVM_testmodel2.ipynb) SVM Test Model Pt.2
+  In this model, we used the top 3 predictors from our random forest tree. We repeated steps 1 to 4 as per Jupyter Notebook 4. Unsurprisingly, this model performed better than our first, with perfect scores in terms of precision,recall and f1 scores. With this information, it was evident that this model was better than our initial model. Hence, this led to us using this model to make predictions. 
+
+Using this model, we were able to input values and our machine was able to accurately predict the child's anemia level. Moreover, we repeated this for various input values and it gave us accurate results across all the different inputs. 
+
+![image](https://github.com/flumbles/SC1015_FDAD_Team2/assets/162455199/b500b3fb-d660-452e-af13-1d72a184c1db)
+![image](https://github.com/flumbles/SC1015_FDAD_Team2/assets/162455199/436d57b1-52e2-4ee3-955e-0bb43b04ce77)
+
 
  ## What we have learnt from this project?
    

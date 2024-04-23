@@ -36,7 +36,6 @@
    4) Observed that one predictor to be very significant. Use single decision tree to obseve the predictor
    5) Repeat the Random Forest model without this predicor to observe feature importance once more
 
-  (Might want to insert reason why SVM was split into 2?)
   ### Jupyter Notebook #4 - (SVM_testmodel.ipynb) SVM Test Model Pt.1
   *b. Support Vector Machine*
   

@@ -17,7 +17,7 @@
 # Notebook Details
 
   ## Exploratory Data Analysis / Visualisation 
-We split our original notebook for Exploratory Data Analysis into 2 as it was too big to place into github. Our plots were meant to be interactive as we used Plotly to plot them, but as github doesn't support plotly, they weren't able to show when uploaded on github. Thus, we extracted images out instead and imported these images into our notebooks instead. For a full experience of our plots, do run our notebook throguh https://nbviewer.org/ and paste the link of our notebooks!
+We split our original notebook for Exploratory Data Analysis into 2 as it was too big to place into github. Our plots were meant to be interactive as we used Plotly to plot them, but as github doesn't support plotly, they weren't able to show when uploaded on github. Thus, we extracted images out instead and imported these images into our notebooks instead. For a full experience of our plots, you can run our notebook throguh https://nbviewer.org/ and paste the link of our notebooks!
   
   ### Jupyter Notebook #1 - (EDA1015_first_part.ipynb) Data cleaning and Basic Visualisation
   In this first notebook, we first clean the dataset - clearing rows with NULL child anemia levels, as well as removing variables that are extremely skewed. 

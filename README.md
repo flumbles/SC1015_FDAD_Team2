@@ -36,7 +36,6 @@
    4) Observed that one predictor to be very significant. Use single decision tree to obseve the predictor
    5) Repeat the Random Forest model without this predicor to observe feature importance once more
 
-  ### Jupyter Notebook #4 - (SVM_testmodel.ipynb) SVM Test Model Pt.1
   *b. Support Vector Machine*
   
   For the support vector machine, we created 2 different models. The first one was using our cleaned data set that we generated from the model. However, with the insights provided by our random forest tree, we wanted to enahnce our project. This led to us developing a second model where we used the top 3 predictors from our random forest tree as our predictors for child anemia. For easy readibility, we decided to seperate the jupyter notebooks, with one for each model. 

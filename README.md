@@ -30,8 +30,10 @@ We split our original notebook for Exploratory Data Analysis into 2 as it was to
   
   ## Machine Learning
 
+  ## 1.Random Forest
+  
   ### Jupyter Notebook #3 - (RandomForestML.ipynb) Random Forest
-  *a. Random Forest*
+ 
   
    1) Using all the predictors, build a Random Forest Classifier to predict 'child_anemia_level'
    2) Check the OOB score and Classification accuracy of the model (Obtain HIGH accuracy)
@@ -39,7 +41,7 @@ We split our original notebook for Exploratory Data Analysis into 2 as it was to
    4) Observed that one predictor to be very significant. Use single decision tree to obseve the predictor
    5) Repeat the Random Forest model without this predicor to observe feature importance once more
 
-  *b. Support Vector Machine*
+## 2.Support Vector Machine
   
   For the support vector machine, we created 2 different models. The first one was using our cleaned data set that we generated from the model. However, with the insights provided by our random forest tree, we wanted to enahnce our project. This led to us developing a second model where we used the top 3 predictors from our random forest tree as our predictors for child anemia. For easy readibility, we decided to seperate the jupyter notebooks, with one for each model. 
 

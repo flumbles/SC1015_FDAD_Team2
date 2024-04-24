@@ -8,6 +8,8 @@
  
  ![Anemia Singapore](https://github.com/flumbles/SC1015_FDAD_Team2/assets/128465695/80ab85be-793c-4bfe-8da7-82bb0b061d94)
 
+   Childeren Anemia Dataset - https://www.kaggle.com/code/jagroop2001/children-anemia-level/data
+   
 ## Goals/Aim of Project
 1) Understand the important factors that affect the Anemia Level of Children
 2) Predict the exact Anemia Level of a child.
